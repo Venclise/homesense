@@ -62,7 +62,7 @@ export const furnitureca = [
     {
         id: 3,
         title: "Chair",
-        slug: "/products/living-room/chairr",
+        slug: "/products/living-room/chair",
               img: "/chair.png",
 
     },
