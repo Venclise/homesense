@@ -52,7 +52,6 @@ process.env.NEXT_PUBLIC_SITE_URL
         <Select
           value={currentSort}
           onValueChange={(newValue) => {
-
             const params = new URLSearchParams(searchParams.toString());
        
             if (newValue) {

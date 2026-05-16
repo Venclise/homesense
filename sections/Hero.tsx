@@ -14,7 +14,7 @@ import React from "react";
 
 export default function Hero() {
   return (
-    <div className="h-screen  w-full flex items-center flex-col justify-center  rounded-b-4xl">
+    <div className="h-[70vh] md:h-screen  w-full flex items-center flex-col justify-center  rounded-b-4xl">
       <div className="w-full h-full relative">
         <Image
           src="/sofa.jpg"

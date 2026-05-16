@@ -38,7 +38,7 @@ export default function AddProduct() {
     subcategory: "",
   });
 
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000/";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000";
 
   const [images, setImages] = useState<File[]>([]);
   const [previews, setPreviews] = useState<string[]>([]);
