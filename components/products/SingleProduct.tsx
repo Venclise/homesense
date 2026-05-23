@@ -177,7 +177,7 @@ opacity-50
         <div className="w-full flex  gap-2 ">
           <Button className="bg-green-500 flex-1 py-6  flex items-center justify-center rounded-full">
             <Link
-              href={`https://wa.me/923015148830?text=Hi%20I%20want%20details%20about%20${encodeURIComponent(product.title)}`}
+              href={`https://wa.me/+923060675103?text=Hi%20I%20want%20details%20about%20${encodeURIComponent(product.title)}`}
               target="_blank"
               rel="noopener noreferrer"
               className="w-full flex items-center gap-2 justify-center "
